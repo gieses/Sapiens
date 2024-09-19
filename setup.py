@@ -26,10 +26,6 @@ setup(
     author_email='david.prihoda@gmail.com',
     license='MIT',
     python_requires=">=3.7",
-    install_requires=[
-        'pandas',
-        'fairseq',
-    ],
     keywords='sapiens, antibody humanization, bert, biophi',
     classifiers=[
         'Programming Language :: Python :: 3',
